@@ -5,9 +5,19 @@ Google's Dinosaur Game built on **RAPTOR** (the Rapid Algorithmic Prototyping To
 Learn more about RAPTOR from here:
 [RAPTOR](https://raptor.martincarlisle.com/)
 
-## Developers
+## How to play
 
-**Programs**:
+1. Install **Raptor for Windows**
+2. Open **"! - Raposaur.rap"** via RAPTOR
+3. Click **Run** on **Toolbar**
+4. Press key [Space], [W] or [Up] to jump, [Down] to duck
+5. Press key [Shift] to speed up your game, and [Esc] to pasue
+
+<img width="1920" height="1028" alt="0" src="https://github.com/user-attachments/assets/e10747a9-69dc-4dd1-bda7-8c28b1c44b1c" />
+
+### Developers
+
+**Programing**:
 
     Zhang Fuqi
 
@@ -18,7 +28,7 @@ Learn more about RAPTOR from here:
 
 Last Update: January 3rd, 2026
 
-### Acknowledgement
+#### Acknowledgement
 
 This directory contains graphical assets derived from the Chromium project.
 
