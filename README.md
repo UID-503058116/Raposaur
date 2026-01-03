@@ -1,2 +1,2 @@
 # Raposaur
-A dinosaur game built on RAPTOR
+Google's dinosaur game built on RAPTOR
